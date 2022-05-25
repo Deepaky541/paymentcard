@@ -1,0 +1,12 @@
+.logos{
+    display: flex;
+    flex-direction: row-reverse;
+    
+
+}
+.logos img{
+width: 75px;
+height: 75px;
+
+
+}

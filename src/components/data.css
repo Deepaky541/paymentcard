@@ -1,0 +1,27 @@
+.headings :nth-child(1){
+    background-color: black;
+    color: white;
+    align-items: center;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 60%;
+}
+.headings h1{
+    font-size: 40px;
+    display: flex;
+}
+.heading{
+    display: flex;
+ 
+    width: 100%;
+    justify-content: space-between;
+
+}
+.arrow{
+    display: flex;
+    
+}
+.arrow h1{
+    margin-top: 230px;
+}
